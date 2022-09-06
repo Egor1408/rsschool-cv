@@ -83,3 +83,10 @@ export default tabs;
 -   [HTML5/CSS3](https://htmlacademy.ru/study)
 -   [JS LearnJavaScript](https://learn.javascript.ru/)
 -   [ReactJS Udemy](https://www.udemy.com/course/react-2020-complete-guide/)
+
+---
+
+## Languages:
+
+-   Russian - native
+-   English - A2 Elementary
