@@ -74,3 +74,12 @@ const tabs = (headerSelector, tabSelector, contentSelector, activeClass, display
 
 export default tabs;
 ```
+
+---
+
+## Courses:
+
+-   [Figma](https://www.udemy.com/course/web-figma-ui/)
+-   [HTML5/CSS3](https://htmlacademy.ru/study)
+-   [JS LearnJavaScript](https://learn.javascript.ru/)
+-   [ReactJS Udemy](https://www.udemy.com/course/react-2020-complete-guide/)
